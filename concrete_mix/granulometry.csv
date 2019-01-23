@@ -1,0 +1,8 @@
+'components','coarse agg','fine agg'
+'max size (mm), 25 , 0
+'density (g/cm3), 2.4, 2.36 
+'absorption %', 8 ,  15
+'loose weight (kg/m3), 1350 , 1580
+'compact weight (kg/m3), 1392, 0
+'thinness modulus', 0 , 2.3 
+'humidity in situ', 0.3, 0.3 

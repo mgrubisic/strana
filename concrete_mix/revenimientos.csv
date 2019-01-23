@@ -1,0 +1,11 @@
+Sin aire,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Revenimiento (cm) 2.5 min,lim superior,9.5,12.5,19,25,38,50,75,150
+2.5,5,207,199,190,179,166,154,130,113
+7.5,10,228,216,205,193,181,169,145,124
+15,17.5,243,228,216,202,190,178,160,nan
+"Aire en concreto sin aire incluido en porciento",nan,3,2.5,2.0,1.5,1.0,0.5,0.3,0.2
+Con aire,lim superior,Agua (kg/m3) para el Concreto de Agregado de Tamano nominal máximo (mm),nan,nan,nan,nana,nan,nan,nan
+2.5,5,181,175,168,160,150,142,122,107
+7.5,10,202,193,184,175,165,157,133,119
+15,17.5,216,205,197,174,174,166,154,nan
+Exposición ligera,Promedio recomendado de contenido de aire total  por ciento,4.5,4,3.5,3,2.5,2,1.5,1
