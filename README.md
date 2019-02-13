@@ -1,1 +1,1 @@
-# strana
+# Structural engineering analysis scripts 
